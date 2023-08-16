@@ -1,0 +1,42 @@
+body{
+    background-image: url(./mercides.b.jpg);
+    background-size: cover;
+}
+.sidenav{
+    color: black;
+    padding-left: 50px;
+    padding-right: 35px;
+    margin-left: 70px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.main a {
+    
+        text-decoration: none;
+        padding: 20px;
+        margin-top: 50px;
+        font-family: 'Inter', sans-serif;
+        font-family: 'Josefin Slab', serif;
+        color: black;
+}
+.main a:hover {
+    text-decoration: underline;
+}
+.navbar{
+    display: flex;
+    padding: 5px;
+    margin-right: 45px;
+    margin-top: 45px;
+    margin-bottom: 45px;
+}
+.sidenav a img {
+    width: 100px;
+    height: auto;
+}
+.container{
+    color: white;
+    margin-top: 40vh;
+    margin-left: 10vh;
+}
